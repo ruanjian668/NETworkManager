@@ -11,7 +11,6 @@ Date: **11.05.2020**
 - Ping view removed [#272](http://github.com/BornToBeRoot/NETworkManager/issues/272){:target="_blank"}
 - Ping Monitor
   - Latency graph added [#286](http://github.com/BornToBeRoot/NETworkManager/issues/286){:target="_blank"}
-  - Export added [#287](http://github.com/BornToBeRoot/NETworkManager/issues/287){:target="_blank"}
 - HTTP Headers removed [#276](http://github.com/BornToBeRoot/NETworkManager/issues/276){:target="_blank"}
 - View improved
 
