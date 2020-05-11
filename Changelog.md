@@ -53,7 +53,6 @@ Date: **11.05.2020**
   - Libraries updated
   - Language files updated
     - Hungarian added
-  - Resources (OUI, Ports, Whois) updated
 
 # Version 2020.4.0
 Date: **21.04.2020**
