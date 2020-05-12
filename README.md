@@ -12,9 +12,9 @@ There are some more features such as a subnet calculator, a Whois lookup or a da
 
 | File | Checksum [SHA256] | Help |
 |---|---|---|
-|[Setup](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.5.0/NETworkManager_2020.5.0_Setup.exe){:target="_blank"}| `B49C7C6B269F3A1B89D7F654CBEA791D4B882CD21A4D77006D5D7DFF1AA300C4` | [:book:](Documentation/Other/Packages.md#setup) |
-|[Portable](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.5.0/NETworkManager_2020.5.0_Portable.zip){:target="_blank"}| `A2684C73BBBFA2AE7AE3D59A024AA5247B64DE3C002C22B6F7AA4BEA3AC9B5CE` | [:book:](Documentation/Other/Packages.md#portable) |
-|[Archiv](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.5.0/NETworkManager_2020.5.0_Archiv.zip){:target="_blank"}| `9AACB3B1F0AF7D529606068E3B052C85693C9C97CB8CEBF6D4E181A29FAD06E6` | [:book:](Documentation/Other/Packages.md#archiv) |
+|[Setup](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.5.1/NETworkManager_2020.5.1_Setup.exe){:target="_blank"}| `EC5324009FABF9025A91352C542523B03AC0F55B4090A0E41721AED852A9F968` | [:book:](Documentation/Other/Packages.md#setup) |
+|[Portable](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.5.1/NETworkManager_2020.5.1_Portable.zip){:target="_blank"}| `FCC6962C65CDC0ED5137ACDFD23DE97801A1ED74557426BE8AD68F6DBFD366B6` | [:book:](Documentation/Other/Packages.md#portable) |
+|[Archiv](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.5.1/NETworkManager_2020.5.1_Archiv.zip){:target="_blank"}| `E0D10A9CA0E7DAE15C85AE58BB1350E139E8EF6B96D147B40B680AFEB6ED8E85` | [:book:](Documentation/Other/Packages.md#archiv) |
 
 The setup is also available in the Windows Package Manager [:link: Chocolatey](https://chocolatey.org/packages/NETworkManager){:target="_blank"}.
 
