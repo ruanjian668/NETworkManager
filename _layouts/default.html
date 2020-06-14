@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>{{ site.github.repository_name }} | {{page.path }} {{ page.path | replace: "/README.md", "" | replace: "README.md", "" | replace: "/", " > " | replace: ".md", ""}}</title>
+    <title>{{ site.github.repository_name }} | {% if page.path == "README.md" %} Welcome {% endif %} {{ page.path | replace: "/README.md", "" | replace: "README.md", "" | replace: "/", " > " | replace: ".md", ""}}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#262626">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
