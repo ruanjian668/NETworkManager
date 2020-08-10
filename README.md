@@ -43,8 +43,8 @@ There are some more features such as a subnet calculator, a Whois lookup or a da
     </a>     
   </p>   
   <p>
-    [Github :octocat:](https://github.com/BornToBeRoot/NETworkManager){: .btn } 
-    [Download :package:](https://borntoberoot.net/NETworkManager/Download){: .btn }
+    <a href='https://github.com/BornToBeRoot/NETworkManager'><button type="button" name="button" class="btn">Github :octocat:</button></a>
+    <a href='https://borntoberoot.net/NETworkManager/Download'><button type="button" name="button" class="btn">Download :package:</button></a>
   </p>
 </div>
 
