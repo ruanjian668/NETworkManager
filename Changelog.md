@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 nav_order: 2
-description: "Changelog"
+description: ""
 permalink: /Changelog
 ---
 
