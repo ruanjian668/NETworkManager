@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Download
-nav_order: 2
+nav_order: 3
 description: ""
 permalink: /Download
 ---
 
-## Download :package:
+# Download :package:
 
 | File | Checksum [SHA256] | Help |
 |---|---|---|
