@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
-plugins:
-  - jemoji
+title: "NETworkManager"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: true
