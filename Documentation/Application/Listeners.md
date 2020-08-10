@@ -1,3 +1,0 @@
-# Listeners
-
-![Listeners](Listeners.png)

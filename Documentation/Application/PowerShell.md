@@ -1,3 +1,0 @@
-# PowerShell
-
-![PowerShell](PowerShell.png)

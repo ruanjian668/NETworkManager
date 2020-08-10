@@ -1,3 +1,12 @@
+---
+layout: default
+title: Changelog
+nav_order: 2
+description: "Changelog"
+permalink: /Changelog
+---
+
+
 # Version 2020.5.1
 Date: **12.05.2020**
 
