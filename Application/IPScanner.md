@@ -4,7 +4,7 @@ title: IP Scanner
 parent: Application
 nav_order: 4
 description: ""
-permalink: /Documentation/Application/IPScanner
+permalink: /Application/IPScanner
 ---
 
 # IP Scanner

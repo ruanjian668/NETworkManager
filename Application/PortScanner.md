@@ -4,7 +4,7 @@ title: Port Scanner
 parent: Application
 nav_order: 5
 description: ""
-permalink: /Documentation/Application/PortScanner
+permalink: /Application/PortScanner
 ---
 
 # Port Scanner
