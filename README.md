@@ -42,7 +42,8 @@ There are some more features such as a subnet calculator, a Whois lookup or a da
       <img alt="Transifex" src="https://img.shields.io/badge/github-bug_report-red.svg?style=flat-square" />
     </a>     
   </p>   
+  <p>
+    <button type="button" name="btnGithub" class="btn">Github :octocat:</button>
+    <button type="button" name="btnDownload" class="btn">Download :package:</button>
+  </p>
 </div>
-
-[Github :octocat:](https://github.com/BornToBeRoot/NETworkManager){: .btn } 
-[Download :package:](https://borntoberoot.net/NETworkManager/Download){: .btn }
