@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "A powerful tool for managing networks and troubleshoot network problems!"
+permalink: /
+---
+
 ## Welcome
 
 NETworkManager is a powerful tool for managing networks and troubleshoot network problems! You can view and configure network interfaces, scan for wlan networks, capture lldp or cdp packages, perform an IP or port scan, ping your hosts, and troubleshoot your connection using traceroute or a DNS lookup.
