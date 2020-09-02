@@ -6,7 +6,7 @@ description: ""
 permalink: /Download
 ---
 
-# Download :package:
+# Download
 
 | File | Checksum [SHA256] |
 |---|---|
