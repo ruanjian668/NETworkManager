@@ -6,7 +6,7 @@ description: ""
 permalink: /SystemRequirements
 ---
 
-# System requirements :computer:
+# System requirements
 
 - Windows 10 or Server 2016
 - .NET-Framework 4.7.2
