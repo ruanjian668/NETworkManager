@@ -6,7 +6,7 @@ description: ""
 permalink: /Features
 ---
 
-# Features :rocket:
+# Features
 
 - Dashboard 
 - Network Interface - Information, Bandwidth, Configure
