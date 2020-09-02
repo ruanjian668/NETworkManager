@@ -6,7 +6,7 @@ description: ""
 permalink: /Languages
 ---
 
-# Languages :flags:
+# Languages
 
 Official:
 - English
