@@ -6,7 +6,7 @@ description: ""
 permalink: /License
 ---
 
-# License :memo:
+# License
 
 This software is published under the [GNU General Public License v3](https://github.com/BornToBeRoot/NETworkManager/blob/master/LICENSE){:target="_blank"}.
 
