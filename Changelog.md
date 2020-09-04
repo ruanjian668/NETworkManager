@@ -6,6 +6,29 @@ description: ""
 permalink: /Changelog
 ---
 
+# Version 2020.9.0 [Preview]
+Date: **05.09.2020**
+
+| File | Checksum [SHA256]
+|---|---|
+|[:package: Setup](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.9.0/NETworkManager_2020.9.0_Setup.exe)| `EC5324009FABF9025A91352C542523B03AC0F55B4090A0E41721AED852A9F968` |
+|[:package: Portable](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.9.0/NETworkManager_2020.9.0_Portable.zip)| `FCC6962C65CDC0ED5137ACDFD23DE97801A1ED74557426BE8AD68F6DBFD366B6` |
+|[:package: Archiv](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.9.0/NETworkManager_2020.9.0_Archiv.zip)| `E0D10A9CA0E7DAE15C85AE58BB1350E139E8EF6B96D147B40B680AFEB6ED8E85` |
+
+## What's new?
+- Migration to ~~.NET Core 3.1~~ .NET 5.0!!! (requires [.NET Desktop Runtime 5.0.0-repview.8](https://dotnet.microsoft.com/download/dotnet/5.0)) [#309](http://github.com/BornToBeRoot/NETworkManager/issues/309){:target="_blank"}
+- Migration to WebView2 (requires [Microsoft Edge Canary](https://www.microsoftedgeinsider.com/en-us/download)) [#252](http://github.com/BornToBeRoot/NETworkManager/issues/252){:target="_blank"}
+
+## Improvements
+- WebConsole
+  - Untrusted SSL certificates can now be accepted [266](http://github.com/BornToBeRoot/NETworkManager/issues/266){:target="_blank"}
+
+## Bugfixes
+- Subnet Calculator
+  - Subnetting - App crash fixed if subnetmask was used [#319](http://github.com/BornToBeRoot/NETworkManager/issues/319){:target="_blank"}
+
+## Other
+  - Libraries updated
 
 # Version 2020.5.1
 Date: **12.05.2020**
