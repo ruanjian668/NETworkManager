@@ -22,6 +22,7 @@ Date: **05.09.2020**
 
 ## What's new?
 - Migration to ~~.NET Core 3.1~~ .NET 5.0!!! (requires [.NET Desktop Runtime 5.0.0-repview.8](https://dotnet.microsoft.com/download/dotnet/5.0)) [#309](http://github.com/BornToBeRoot/NETworkManager/issues/309){:target="_blank"}
+- Migration to MahApps.Metro Version 2.x
 - Migration to WebView2 (requires [Microsoft Edge Canary](https://www.microsoftedgeinsider.com/en-us/download)) [#252](http://github.com/BornToBeRoot/NETworkManager/issues/252){:target="_blank"}
 
 ## Improvements
