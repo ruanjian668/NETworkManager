@@ -23,7 +23,7 @@ The setup is also available in the Windows Package Manager [:link: Chocolatey](h
 
 ## Preview
 
-Version: **2020.9.0-Preview**  
+Version: **2020.9.0 [Preview]**  
 Date: **05.09.2020**
 
 | File | Checksum [SHA256]
