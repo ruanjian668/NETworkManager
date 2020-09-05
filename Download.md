@@ -32,7 +32,7 @@ Date: **05.09.2020**
 |[:package: Portable](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.9.0/NETworkManager_2020.9.0_Portable.zip)| `E8B60E677E65959BB11F05884F6EA9EC99F09F24ECE869A240B8361F958B4A66` |
 |[:package: Archiv](https://github.com/BornToBeRoot/NETworkManager/releases/download/2020.9.0/NETworkManager_2020.9.0_Archiv.zip)| `86D13E4C139132BCBA86B6F72ADA4D679C4DD303EA08643D276AE1A5DFD47C47` |
 
-**Requires**
+⚠️ **SYSTEM REQUIREMENTS** ⚠️ 
 - Windows 10 x64
 - [.NET 5.0 / Desktop Runtime 5.0.0-preview.8](https://dotnet.microsoft.com/download/dotnet/5.0)
 - [Microsoft Edge Canary](https://www.microsoftedgeinsider.com/en-us/download)
