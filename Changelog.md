@@ -26,7 +26,7 @@ Date: **05.09.2020**
 
 ## Improvements
 - WebConsole
-  - Untrusted SSL certificates can now be accepted [266](http://github.com/BornToBeRoot/NETworkManager/issues/266){:target="_blank"}
+  - Untrusted SSL certificates can now be accepted [#266](http://github.com/BornToBeRoot/NETworkManager/issues/266){:target="_blank"}
 
 ## Bugfixes
 - Subnet Calculator
