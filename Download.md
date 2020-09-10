@@ -40,3 +40,7 @@ Date: **05.09.2020**
 - Windows 10 x64
 - [.NET 5.0 / Desktop Runtime 5.0.0-preview.8](https://dotnet.microsoft.com/download/dotnet/5.0)
 - [Microsoft Edge Canary](https://www.microsoftedgeinsider.com/en-us/download)
+
+⚠️  **KOWN ISSUES** ⚠️ 
+- Application crash on fullscreen [#325](http://github.com/BornToBeRoot/NETworkManager/issues/325)
+- [More...](https://github.com/BornToBeRoot/NETworkManager/issues?q=label%3A.NET5.0-feedback+)
