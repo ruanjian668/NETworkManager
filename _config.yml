@@ -1,6 +1,6 @@
 title: "NETworkManager"
 description: "A powerful tool for managing networks and troubleshoot network problems!"
-remote_theme: ""pmarsceill/just-the-docs"
+remote_theme: "pmarsceill/just-the-docs"
 color_scheme: "dark"
 search_enabled: true
 plugins:
